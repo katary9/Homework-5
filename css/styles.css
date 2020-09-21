@@ -43,8 +43,8 @@ ul, ol {
     padding-left: 81px;
     
 }
-.nav {
-    
+.nav a {
+    padding-right: 25px;
 }
 .mail_container {
     width: 100%;
